@@ -1,0 +1,6 @@
+module Pods_doctell {
+  umbrella header "Pods-doctell-umbrella.h"
+
+  export *
+  module * { export * }
+}

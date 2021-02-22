@@ -1,0 +1,6 @@
+module Pods_doctell_doctellTests {
+  umbrella header "Pods-doctell-doctellTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
